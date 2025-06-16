@@ -8,5 +8,7 @@ public class variables
         System.out.println(younumber);
         boolean mit= true;
         System.out.println(mit);
+        String gm="goodmorning";
+        System.out.println(gm);
     }
 }
