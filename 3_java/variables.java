@@ -6,5 +6,7 @@ public class variables
         System.out.println(number);
         younumber=899;
         System.out.println(younumber);
+        boolean mit= true;
+        System.out.println(mit);
     }
 }
