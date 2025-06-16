@@ -10,5 +10,7 @@ public class variables
         System.out.println(mit);
         String gm="goodmorning";
         System.out.println(gm);
+        char hello='h';
+        System.out.println(hello);
     }
 }
