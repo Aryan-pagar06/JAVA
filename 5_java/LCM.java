@@ -13,12 +13,12 @@ public class LCM
         System.out.println("lcm is = "+ans);
         
     }
-    public static int lcm(int a, int b) // num%x==0 && num%y == 0
+    public static int lcm(int a, int b) // 15 , 20
     {
         int i=1;
-        while (i<= b)
+        while (i<= b) // 1<20
         {
-            int factor = a*i;
+            int factor = a*i; // f=15*1=15
             if(factor % b==0)
             {
                 return factor;
