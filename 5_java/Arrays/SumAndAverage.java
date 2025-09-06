@@ -11,7 +11,7 @@ public class SumAndAverage
         int i=0;
         while (i<size)
         {
-           System.out.print("Enter element = " +(i+1));
+           System.out.print("Enter element "+(i+1)+ " = " );
            arr[i]=input.nextInt();
            i++;
         }
